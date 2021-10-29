@@ -42,7 +42,7 @@ The following is a screenshot of the scheduler:
 
 
 ## Deployed Application Link
-This is the link of the deployed application: https://desziraee.github.io/Homework-Assignment-5-Work-Day-Scheduler/
+This is the link of the deployed application: https://desziraee.github.io/5-Workday-Scheduler/
 
 ## Credits
 Bootstrap: https://getbootstrap.com
